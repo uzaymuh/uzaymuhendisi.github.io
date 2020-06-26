@@ -22,8 +22,8 @@ title: Onur Sertgil
 email: onursertgil23@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Elektronik ve kodlama meraklısı bir genç.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/uzaymuhendisi.github.io" # the subpath of your site, e.g. /blog
+url: "https://uzaymuh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
